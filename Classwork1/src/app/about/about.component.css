@@ -1,0 +1,20 @@
+.title {
+  padding: 20px 0 50px;
+}
+
+.left > h3 {
+  color: grey;
+}
+
+.right > img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.icon {
+  padding: 10px;
+  font-size: 2em;
+  color: #0dcaf0;
+}
