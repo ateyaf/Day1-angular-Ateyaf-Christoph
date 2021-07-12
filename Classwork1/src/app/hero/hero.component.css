@@ -15,8 +15,3 @@
   object-fit: cover;
   margin: 0 auto;
 }
-
-.btn-info {
-  background-color: rgb(241, 255, 116) !important;
-  border: rgb(241, 255, 116) !important;
-}
