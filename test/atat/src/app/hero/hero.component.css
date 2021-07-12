@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+.bg-light {
+    background: url('https://cdn.pixabay.com/photo/2020/03/13/02/45/ice-the-stalk-4926742__340.jpg' )  no-repeat center center;
+            color: #382828;
+            height: 300px;
+            background-size: cover;
+   }

@@ -1,0 +1,15 @@
+.featurette-image {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 100%;
+    
+}
+.featurette-heading{
+    margin-top: 15px;
+    color: crimson;
+}
+.lead{
+    color: rgb(99, 148, 51);
+    font-weight: bold;
+
+}
