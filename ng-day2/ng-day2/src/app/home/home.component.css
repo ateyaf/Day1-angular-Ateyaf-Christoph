@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+}
+.sty{
+    margin-top: 20px;
+   height: 80%;
+    width: 90%;
+}
+
+.text_sty{
+    text-align: center;
+    color: black solid ;
+    font-size: 30px;
+}

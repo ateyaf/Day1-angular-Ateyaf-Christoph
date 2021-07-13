@@ -1,0 +1,42 @@
+<h1>Welcome To our shop!</h1>
+<div class="container" >
+    <div class="row row-cols-2" >
+        <div class="col" *ngFor="let index of Cars" >
+            <img class="sty" src={{index.imge}}>
+            <p class ="text_sty">{{index.name}} {{index.model}}</p>
+            
+        </div>
+    </div>
+</div>
+ <!-- <div class="container" id="sty">
+    <p>I Donate <span (click)="countClick()" class="btn btn-danger"> {{ clickCounter }} of 10€</span></p>
+</div>
+<div class="container" [class.active]="clickCounter > 200">
+    <ng-template [ngIf]="clickCounter > 200" [ngIfElse]="none">
+        <p>VIP</p>
+    </ng-template>
+    <ng-template #none>
+        <p></p>
+    </ng-template>
+</div>  -->
+
+
+<!-- <form [formGroup]="info" (ngSubmit)="onSubmit()">
+    <label>
+        First Name:
+        <input type="text" formControlName="firstName">
+    </label>
+    <label>
+        Last Name:
+        <input type="text" formControlName="lastName">
+    </label>
+    <label>
+        Age:
+        <input type="text" formControlName="age">
+    </label>
+    <label>
+        Email:
+        <input type="text" formControlName="email">
+    </label>
+    <input type="submit" class="btn btn-primary" value="Submit">
+</form> -->
